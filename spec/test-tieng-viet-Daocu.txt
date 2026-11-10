@@ -1,0 +1,23 @@
+Daocu font Family (6 Weights) · Bản test tiếng Việt
+Cài đặt: Tắt các app đồ hoạ/soạn thảo (Photoshop, Illustrator, Word, Canva) → Cài đặt các file .otf trong thư mục fonts/ → Mở lại ứng dụng.
+
+1. Bảng kiểm tra dấu kép & dấu chồng (chữ hoa / thường):
+ẦẤẨẪẬ ẰẮẲẴẶ ỀẾỂỄỆ ỒỐỔỖỘ ỜỚỞỠỢ ỪỨỬỮỰ ỲÝỶỸỴ ÌÍỈĨỊ
+ầấẩẫậ ằắẳẵặ ềếểễệ ồốổỗộ ờớởỡợ ừứửữự ỳýỷỹỵ ìíỉĩị
+
+2. Đầy đủ 146 ký tự tiếng Việt (134 chữ dấu + đ Đ):
+aàáảãạ ăằắẳẵặ âầấẩẫậ eèéẻẽẹ êềếểễệ iìíỉĩị oòóỏõọ ôồốổỗộ ơờớởỡợ uùúủũụ ưừứửữự yỳýỷỹỵ đ
+AÀÁẢÃẠ ĂẰẮẲẴẶ ÂẦẤẨẪẬ EÈÉẺẼẸ ÊỀẾỂỄỆ IÌÍỈĨỊ OÒÓỎÕỌ ÔỒỐỔỖỘ ƠỜỚỞỠỢ UÙÚỦŨỤ ƯỪỨỬỮỰ YỲÝỶỸỴ Đ
+
+3. Câu soi mẫu trong thực tế:
+Trời xanh, trong trẻo, người ươn ưa, cửa sổ, TƯƠNG LAI · thưởng thức, mười, ưu tú, ƯỚC MƠ
+Phố cổ, “cổ,” ấm áp, ồn ào · ẨM THỰC · ủy ban, ỦY BAN · ơn nghĩa, gọn gàng, gập ghềnh
+NGƯỜI ƯỚC MƠ · ĐẦU TƯ · KHẨN CẤP · ĐỘC LẬP · ĐẠO CỤ SÂN KHẤU · đã ĐƯỢC ghi nhận
+
+4. Danh sách các cấp độ Weight trong gia đình Daocu:
+- Daocu Light (300)
+- Daocu Regular (400)
+- Daocu Medium (500)
+- Daocu SemiBold (600)
+- Daocu Bold (700)
+- Daocu Black (900)
